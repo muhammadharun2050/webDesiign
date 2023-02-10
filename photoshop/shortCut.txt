@@ -1,0 +1,2 @@
+ctrl + mouseClick // for select layer picture
+ctrl + j        // for layer copy
