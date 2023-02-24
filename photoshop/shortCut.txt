@@ -4,5 +4,5 @@ alt + backspace         // for apply color
 ctrl + D                // for deselect
 ctrl + mouseClick            // for move text 
 alt + mouseClick             // duplicate text
-crt + t                     // for select and photo ad text resize
+crtl + t                     // for select and photo ad text resize
 ctrl + enter                   // for pen tool selections
