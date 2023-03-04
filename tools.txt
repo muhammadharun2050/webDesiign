@@ -3,3 +3,5 @@ css paper extension  // color and icon downoad
 image downloder extension
 lightshot.exe       // for 
 
+https://www.password.sk/ // randam passwort creator
+
