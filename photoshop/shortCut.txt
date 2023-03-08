@@ -5,5 +5,4 @@ ctrl + D                // for deselect
 ctrl + mouseClick            // for move text 
 alt + mouseClick             // duplicate text
 crtl + t                     // for select and photo ad text resize
-ctrl + enter                   // for pen tool selections
-my name none 
+ctrl + enter                   // for pen tool selections 
