@@ -2,6 +2,10 @@ page ruler extension //for select size
 css paper extension  // color and icon downoad
 image downloder extension
 lightshot.exe       // for 
+https://www.flaticon.com/ //for any icon use photoshop
 
 https://www.password.sk/ // randam passwort creator
+
+https://www.cloudsigma.com/cloud-servers/virtual-private-server-vps-hosting/?fbclid=IwAR0nQPf-twHbZbva98lTza6FN9v5B7qELyqjq7xHbL-oOCfGhNu-St-hSSI //vps free
+
 
