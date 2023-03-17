@@ -3,6 +3,7 @@ css paper extension  // color and icon downoad
 image downloder extension
 lightshot.exe       // for 
 https://www.flaticon.com/ //for any icon use photoshop
+https://pixlr.com/remove-background/  //background remove
 
 https://www.password.sk/ // randam passwort creator
 
