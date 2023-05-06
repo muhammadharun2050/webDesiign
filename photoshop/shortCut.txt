@@ -6,3 +6,6 @@ ctrl + mouseClick            // for move text
 alt + mouseClick             // duplicate text
 crtl + t                     // for select and photo ad text resize
 ctrl + enter                   // for pen tool selections 
+space + crtl    // for lasso tools move picture
+crtl + space // for lesso tool selection start
+crtl + sift + n // for new layer
